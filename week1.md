@@ -293,6 +293,10 @@ AI를 통해 시간표를 생성했지만, 유동성이 포함되어 있지 않�
 
 <summary><strong>2025. 07. 22. (화)</strong></summary>
 
+#### 기존 내용
+
+- [Gist Link](https://gist.github.com/letscoding2472/fe4827614e352af1095c7c3ec3944d00)
+
 #### 답변 내용
 
 당신이 작성한 문서는 전체적으로 명확하고 구조화도 잘 되어 있습니다. 그러나 테크니컬 라이팅의 기준과 8가지 실천 원칙에 따라 더 개선할 수 있는 부분도 분명히 있습니다. 아래에 각 항목별 점검 결과와 함께 구체적인 개선 제안도 드립니다.
@@ -418,6 +422,10 @@ npm test
 <details>
 
 <summary><strong>2025. 07. 23. (수)</strong></summary>
+
+#### 기존 내용
+
+- [Gist Link](https://gist.github.com/letscoding2472/4d9a32563902905c1a1a5a6728491966)
 
 #### 답변 내용
 
@@ -577,6 +585,10 @@ npm test
 <details>
 
 <summary><strong>2025. 07. 24. (목)</strong></summary>
+
+#### 기존 내용
+
+- [Gist Link](https://gist.github.com/letscoding2472/78167284445f6aed4f0c393239c83d2c)
 
 #### 답변 내용
 
