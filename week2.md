@@ -251,8 +251,31 @@
 ## 수행 내용
 
 ### AI 학습
+- **내 GPT 만들기**
+<img width="700" height="914" alt="스크린샷 2025-07-31 오후 3 05 54" src="https://github.com/user-attachments/assets/0b5b5116-f93b-4de0-9dd8-542aceb912db" />
+
+
+- **문장 다듬기 프롬프트를 지침에 작성**
+
+<img width="700" height="914" alt="스크린샷 2025-07-31 오후 3 05 44" src="https://github.com/user-attachments/assets/d03d4325-aa30-4581-bb5b-f80656804b3c" />
+
 
 ### 결과물
+
+- 적용 전 정리가 안되었던 내 글
+
+<img width="500" height="872" alt="스크린샷 2025-07-31 오후 3 09 16" src="https://github.com/user-attachments/assets/baafb3c6-76f8-453c-bd15-a21df5c94d90" />
+
+
+- 문장 다듬기 봇이 정리해 준 내 글
+
+<img width="500" height="872" alt="스크린샷 2025-07-31 오후 3 09 25" src="https://github.com/user-attachments/assets/7405fe66-9187-4f7f-98f8-e4fcd3969104" />
+
+## 소감
+
+정말 편리하고 공부하는데 도움이 되었다.
+
+그동안 기술 글을 작성할 때마다 말을 쉽고 간결히 쓰는 것이 어려웠는데, 학습시킨 모델을 이용하니 필요한 정보만 구체적으로 작성해주어서 정리된 글을 보면서 다시 한 번 개념을 정리하고 공부하는데 도움이 되었다.
 
 
 </div>
