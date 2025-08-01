@@ -111,8 +111,8 @@
   </details>
 - **작성자 추천 마사지 (목빗근 - 흉쇄유돌근 마사지)**
     
-    ![image.png](attachment:b0ffacb2-16c0-4b80-988e-43458d930fe5:image.png)
-    
+    <img width="768" height="512" alt="image" src="https://github.com/user-attachments/assets/0f08017b-9ab9-41b0-93e7-6b52d101d404" />
+
 - 거북목에 영향있는 목 앞 근육의 과긴장 상태를 풀어주고 , 이를 통해 뒷목 ,후두부 통증이 완화된다고 합니다
 - 정확한 마사지 방법은 유튜브에 잘 나와있으니 검색해보는 방법이 좋아요 !
     - 유튜브 : 피지오스튜디오 "와 이렇게 두통이 사라진다고"  추천합니다.
